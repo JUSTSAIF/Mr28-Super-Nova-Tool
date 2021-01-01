@@ -4,7 +4,12 @@
 Programmed By : C#
 Created in ‎2020/10/?! 
 
-App Info :: { Assistance Tool for [ PUBG MOBILE ] and specifically for [ PUBG MOBILE CHEATERS 😁 ]  }
-Note [ i program it just for learning , Don't ask me to fix some Bug -_-  ]
+### App Info :: { Assistance Tool for [ PUBG MOBILE ] and specifically for [ PUBG MOBILE CHEATERS 😁 ]  }
+### Note [ i program it just for learning , Don't ask me to fix some Bug -_-  ]
 
-![program pic]()
+
+
+#### STARTUP 
+![program pic](https://github.com/JUSTSAIF/Mr28-Super-Nova-Tool/blob/main/pics/1.png?raw=true)
+#### Main Form
+![program pic](https://github.com/JUSTSAIF/Mr28-Super-Nova-Tool/blob/main/pics/2.png?raw=true)
