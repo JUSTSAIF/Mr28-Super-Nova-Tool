@@ -5,7 +5,6 @@
 #### Created in ‎2020/10/?! 
 
 ### App Info :: { Assistance Tool for [ PUBG MOBILE ] and specifically for [ PUBG MOBILE CHEATERS 😁 ]  }
-### Note [ i program it just for learning , Don't ask me to fix some Bug -_-  ]
 
 
 
